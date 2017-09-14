@@ -1,0 +1,14 @@
+branchStemRatioLeft = 0.9
+branchStemRatioRight = 0.2
+branchStemRatioCentre = 0.9
+girthRatioLeft = 0.7
+girthRatioRight = 0.7
+girthRatioCentre = 0.8
+Langle = 20
+Rangle = -50
+depthOfBranching = 5
+girthDecay = 0.9
+isTernary = 0
+branchAngleType = 0
+branchAngleParameter = 2
+divAngle = 0;

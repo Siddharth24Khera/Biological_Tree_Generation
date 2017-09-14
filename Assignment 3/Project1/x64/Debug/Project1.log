@@ -1,0 +1,14 @@
+﻿  Texture.cpp
+  Source.cpp
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(253): warning C4101: 'x1': unreferenced local variable
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(253): warning C4101: 'x4': unreferenced local variable
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(253): warning C4101: 'x3': unreferenced local variable
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(253): warning C4101: 'x2': unreferenced local variable
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(350): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(351): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(355): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(356): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(419): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(421): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'

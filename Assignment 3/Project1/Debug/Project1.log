@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(131): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(133): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(214): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(215): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(216): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(217): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(218): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(351): warning C4101: 'x1': unreferenced local variable
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(351): warning C4101: 'x4': unreferenced local variable
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(351): warning C4101: 'x3': unreferenced local variable
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(351): warning C4101: 'x2': unreferenced local variable
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(448): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(449): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(453): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(454): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(517): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\siddharth khera\desktop\semester 4\col781 computer graphics\assignment 3\project1\source.cpp(519): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Project1.vcxproj -> C:\Users\Siddharth Khera\Desktop\Semester 4\COL781 Computer Graphics\Assignment 3\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Siddharth Khera\Desktop\Semester 4\COL781 Computer Graphics\Assignment 3\Debug\Project1.pdb (Partial PDB)
